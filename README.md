@@ -18,7 +18,7 @@ I believe in the power of data to transform businesses and the importance of sha
 
 In my spare time, I enjoy exploring the latest trends in AI and developing predictive models to solve real-world challenges, always aiming to contribute to the creation of impactful and intelligent systems.
 
-## Been a part of
+### Been a part of
 
 <div align="center">
 	<img height="80" width = 80 align = "left"  src="Icons/Tech.webp" alt="Tech Mahindra" title="Tech Mahindra" />&nbsp
@@ -26,7 +26,15 @@ In my spare time, I enjoy exploring the latest trends in AI and developing predi
 	<img height="80"  width = 80 align = "left" src="Icons/BMW.jpg" alt="BMW" title="BMW" />&nbsp
 </div><br><br>
 
-## Languages & Tools:
+#### Here are some ideas to get you started:
+- 🔭 I’m currently working on Image Segmentation, Large Langugage Models
+- 🌱 I’m currently learning GenAI, Deep Learning
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about Data Visualization, Machine Learning, Data Warehousing, ETL
+- 📫 How to reach me: shashank.rvss@gmail.com
+- 😄 Pronouns: He/Him
+  
+### Languages & Tools:
 <div align="center">
 	<img height="40"  src="Icons/PowerBI.jpeg" alt="PowerBI" title="PowerBI" />
 	<img height="40"  src="Icons/Python-Logo.jpg" alt="Python" title="Python" />
@@ -42,7 +50,7 @@ In my spare time, I enjoy exploring the latest trends in AI and developing predi
 	<img height="40"  src="Icons/Dbeaver.jpg" alt="DBeaver" title="DBeaver" />
 </div>
 
-<h2 align="Left">Interests/Expertise</h2>
+<h3 align="Left">Interests/Expertise</h3>
 
 - Data Analytics
 - Business Analysis
@@ -55,7 +63,7 @@ In my spare time, I enjoy exploring the latest trends in AI and developing predi
 - Machine learning
 - Large Language Models
 
-<h2 align="Left">Py Libraries</h2>
+<h3 align="Left">Py Libraries</h3>
 
 - Numpy
 - Pandas
